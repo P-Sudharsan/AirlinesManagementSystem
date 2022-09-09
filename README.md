@@ -6,16 +6,16 @@ A Java web application that comprises of user and admin functionalities, facilit
 1. **Login Screen** 
    1. Click on ‘New Customer-Click Here!’
 
-![](Aspose.Words.e626b3d2-4415-446d-99b8-067c14180506.001.png)
+![](/readme-png/Aspose.Words.e626b3d2-4415-446d-99b8-067c14180506.001.png)
 
 1. **Register New User**
    1. Enter ***invalid data*** for any field. Error message will be displayed with the specific detail.
 
-![](Aspose.Words.e626b3d2-4415-446d-99b8-067c14180506.002.png)
+![](/readme-png/Aspose.Words.e626b3d2-4415-446d-99b8-067c14180506.002.png)
 
 1. Enter all the mandatory fields with ***valid data*** and click on Submit
 
-![](Aspose.Words.e626b3d2-4415-446d-99b8-067c14180506.003.png)
+![](/readme-png/Aspose.Words.e626b3d2-4415-446d-99b8-067c14180506.003.png)
 
 1. User will be redirected to **Login Screen**. 
    1. Enter ***invalid credentials*** and click on submit. Error Message ‘Wrong Credentials’ will be displayed
