@@ -1,0 +1,10 @@
+2021-12-14T14:03:25,431 [localhost-startStop-1] INFO  (ContextLoader.java:271) - Root WebApplicationContext: initialization started
+2021-12-14T14:03:27,935 [localhost-startStop-1] INFO  (Version.java:45) - HHH000412: Hibernate Core {5.2.11.Final}
+2021-12-14T14:03:27,943 [localhost-startStop-1] INFO  (Environment.java:213) - HHH000206: hibernate.properties not found
+2021-12-14T14:03:28,222 [localhost-startStop-1] INFO  (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2021-12-14T14:03:29,592 [localhost-startStop-1] INFO  (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-12-14T14:03:31,156 [localhost-startStop-1] INFO  (Version.java:30) - HV000001: Hibernate Validator 5.4.1.Final
+2021-12-14T14:03:33,200 [localhost-startStop-1] INFO  (ContextLoader.java:307) - Root WebApplicationContext initialized in 7724 ms
+2021-12-14T14:03:33,205 [localhost-startStop-1] INFO  (FrameworkServlet.java:525) - Initializing Servlet 'dispatcher'
+2021-12-14T14:03:33,738 [localhost-startStop-1] INFO  (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-12-14T14:03:35,075 [localhost-startStop-1] INFO  (FrameworkServlet.java:547) - Completed initialization in 1868 ms

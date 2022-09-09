@@ -1,0 +1,12 @@
+2021-12-14T15:42:01,274 [localhost-startStop-1] INFO  (Version.java:30) - HV000001: Hibernate Validator 5.4.1.Final
+2021-12-14T15:42:04,125 [localhost-startStop-1] INFO  (ContextLoader.java:307) - Root WebApplicationContext initialized in 9800 ms
+2021-12-14T15:42:04,131 [localhost-startStop-1] INFO  (FrameworkServlet.java:525) - Initializing Servlet 'dispatcher'
+2021-12-14T15:42:04,802 [localhost-startStop-1] INFO  (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-12-14T15:42:06,555 [localhost-startStop-1] INFO  (FrameworkServlet.java:547) - Completed initialization in 2423 ms
+2021-12-14T15:42:20,150 [http-nio-8080-exec-5] INFO  (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2021-12-14T15:42:20,621 [http-nio-8080-exec-5] WARN  (HqlSqlWalker.java:1088) - [DEPRECATION] Encountered positional parameter near line 1, column 61 in HQL: [from com.cts.caseStudy3.airlines.model.Customer where fname=? and password=?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2021-12-14T15:42:20,628 [http-nio-8080-exec-5] WARN  (HqlSqlWalker.java:1088) - [DEPRECATION] Encountered positional parameter near line 1, column 76 in HQL: [from com.cts.caseStudy3.airlines.model.Customer where fname=? and password=?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2021-12-14T15:42:21,043 [http-nio-8080-exec-5] INFO  (LoginController.java:42) - Customer login checked !
+2021-12-14T15:42:21,188 [http-nio-8080-exec-5] INFO  (LoginController.java:45) - Customer session checked !
+2021-12-14T15:42:47,141 [http-nio-8080-exec-10] WARN  (AbstractHandlerExceptionResolver.java:199) - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]
+2021-12-14T15:42:55,770 [http-nio-8080-exec-1] WARN  (AbstractHandlerExceptionResolver.java:199) - Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: ""]

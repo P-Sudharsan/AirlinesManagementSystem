@@ -1,0 +1,2 @@
+2021-12-14T15:43:27,411 [http-nio-8080-exec-3] INFO  (LoginController.java:42) - Customer login checked !
+2021-12-14T15:43:27,447 [http-nio-8080-exec-3] INFO  (LoginController.java:45) - Customer session checked !
