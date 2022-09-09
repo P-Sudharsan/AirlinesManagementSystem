@@ -1,0 +1,15 @@
+2021-12-14T13:16:26,982 [localhost-startStop-1] INFO  (ContextLoader.java:271) - Root WebApplicationContext: initialization started
+2021-12-14T13:16:30,329 [localhost-startStop-1] INFO  (Version.java:45) - HHH000412: Hibernate Core {5.2.11.Final}
+2021-12-14T13:16:30,339 [localhost-startStop-1] INFO  (Environment.java:213) - HHH000206: hibernate.properties not found
+2021-12-14T13:16:30,605 [localhost-startStop-1] INFO  (JavaReflectionManager.java:66) - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2021-12-14T13:16:31,741 [localhost-startStop-1] INFO  (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-12-14T13:16:33,337 [localhost-startStop-1] INFO  (Version.java:30) - HV000001: Hibernate Validator 5.4.1.Final
+2021-12-14T13:16:35,431 [localhost-startStop-1] INFO  (ContextLoader.java:307) - Root WebApplicationContext initialized in 8411 ms
+2021-12-14T13:16:35,436 [localhost-startStop-1] INFO  (FrameworkServlet.java:525) - Initializing Servlet 'dispatcher'
+2021-12-14T13:16:35,930 [localhost-startStop-1] INFO  (Dialect.java:157) - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2021-12-14T13:16:37,610 [localhost-startStop-1] INFO  (FrameworkServlet.java:547) - Completed initialization in 2174 ms
+2021-12-14T13:16:48,852 [http-nio-8080-exec-4] INFO  (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2021-12-14T13:16:49,456 [http-nio-8080-exec-4] WARN  (HqlSqlWalker.java:1088) - [DEPRECATION] Encountered positional parameter near line 1, column 61 in HQL: [from com.cts.caseStudy3.airlines.model.Customer where fname=? and password=?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2021-12-14T13:16:49,464 [http-nio-8080-exec-4] WARN  (HqlSqlWalker.java:1088) - [DEPRECATION] Encountered positional parameter near line 1, column 76 in HQL: [from com.cts.caseStudy3.airlines.model.Customer where fname=? and password=?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2021-12-14T13:16:49,827 [http-nio-8080-exec-4] INFO  (LoginController.java:46) - Customer login checked !
+2021-12-14T13:16:49,870 [http-nio-8080-exec-4] INFO  (LoginController.java:49) - Customer session checked !

@@ -1,0 +1,5 @@
+2021-12-14T14:04:19,859 [http-nio-8080-exec-6] INFO  (QueryTranslatorFactoryInitiator.java:47) - HHH000397: Using ASTQueryTranslatorFactory
+2021-12-14T14:04:20,200 [http-nio-8080-exec-6] WARN  (HqlSqlWalker.java:1088) - [DEPRECATION] Encountered positional parameter near line 1, column 61 in HQL: [from com.cts.caseStudy3.airlines.model.Customer where fname=? and password=?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2021-12-14T14:04:20,208 [http-nio-8080-exec-6] WARN  (HqlSqlWalker.java:1088) - [DEPRECATION] Encountered positional parameter near line 1, column 76 in HQL: [from com.cts.caseStudy3.airlines.model.Customer where fname=? and password=?].  Positional parameter are considered deprecated; use named parameters or JPA-style positional parameters instead.
+2021-12-14T14:04:20,461 [http-nio-8080-exec-6] INFO  (LoginController.java:42) - Customer login checked !
+2021-12-14T14:04:20,509 [http-nio-8080-exec-6] INFO  (LoginController.java:45) - Customer session checked !
